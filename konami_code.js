@@ -15,5 +15,5 @@ function init(e) {
   }
 }
 
-let body = document.querySelector('body')
-body.addEventListener('keydown', init)
+let body = document.querySelector('body');
+body.addEventListener('keydown', init);
