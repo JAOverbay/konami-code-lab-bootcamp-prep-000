@@ -16,4 +16,4 @@ function init(e) {
 }
 
 let body = document.querySelector('body')
-body.addEventListener('keydown', init(e))
+body.addEventListener('keydown', init)
